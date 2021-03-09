@@ -2,7 +2,7 @@
 涂鸦宠物定食器学习
 ===
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
-
+可远程操控和科学定时定量的全封闭喂食器，可以在手机上远程操作投食，还能查看喂食器的运行状态，还可以设置定时定量
 一、方案标题
 ===
 宠物定时喂养器
@@ -21,6 +21,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 功能：
 ----
+* 状态指示灯
 * 按时设置自动喂养
 * 手动实时按量喂养
 * 余粮仓重量校准
