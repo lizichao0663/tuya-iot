@@ -34,8 +34,4 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   * 3.10-3.15 实战营培训学习
   * 3.16-20 功能实现电路设计构思
   * 3.21-22 准备物料清单采购
-  * 3.23-25 PCB画板打样
-  * 4.1-4.5 硬件焊接调试
-  * 4.6-4.16 移植
-  * 4.16-4.26 软件调试
-  * 4.27-30 整体功能实现
+  * 3.23-30 整体功能实现调试
