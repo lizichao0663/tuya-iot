@@ -30,7 +30,6 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 三、开发计划
 ===
-* 以下计划依托实战营学习时间顺延，争取5月1号前完成：
   * 3.10-3.15 实战营培训学习
   * 3.16-20 功能实现电路设计构思
   * 3.21-22 准备物料清单采购
