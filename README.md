@@ -4,6 +4,8 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
 可远程操控和科学定时定量的全封闭喂食器，可以在手机上远程操作投食，还能查看喂食器的运行状态，还可以设置定时定量
+---
+基于涂鸦SDK进行开发的学习型项目，它使您能够快速开发连接和控制许多智能场景的应用程序设备
 -----
 一、方案标题
 ===
@@ -37,3 +39,10 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   * 3.16-20 功能实现电路设计构思
   * 3.21-22 准备物料清单采购
   * 3.23-30 整体功能实现调试
+  
+工具清单：
+----
+ * 电烙铁、热熔胶枪、锡丝、热熔胶枪
+ * 直流有刷电机、按键开关、指示灯、电池、万能板
+ * 涂鸦平台、涂鸦app、涂鸦三明治套件
+ * 木棒、纸板、刀具、斜口钳、螺丝刀套装、圆筒等
